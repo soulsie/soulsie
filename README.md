@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **SOULS#1337**
 
-- 📄 Know about my experiences [with twinks](with twinks)
+- 📄 Know about my experiences about twinks
 
 - ⚡ Fun fact **I'm interested in twinks**
 
