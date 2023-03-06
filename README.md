@@ -1,5 +1,5 @@
 <h3 align="center">boy why you so seal 🦭 🦭 </h3>
-<img align="center" alt="twinks" width="200" src="https://soulsie.gay/assets/images/image09.gif">
+<img align="center" alt="twinks" width="400" src="https://soulsie.gay/assets/images/image07.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soulsie&label=Profile%20views&color=0e75b6&style=flat" alt="soulsie" /> </p>
 
@@ -10,8 +10,6 @@
 - 👯 I’m looking to collaborate on **twinks**
 
 - 🤝 I’m looking for help with **twinks**
-
-- 📝 I regularly write articles on [twinks](twinks)
 
 - 💬 Ask me about **twinks**
 
