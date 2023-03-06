@@ -8,15 +8,11 @@
 
 - 🌱 I’m currently learning **twink language**
 
-- 👯 I’m looking to collaborate on **twinks**
-
 - 🤝 I’m looking for help with **twinks**
 
 - 💬 Ask me about **twinks**
 
 - 📫 How to reach me **SOULS#1337**
-
-- 📄 Know about my experiences about twinks
 
 - ⚡ Fun fact **I'm interested in twinks**
 
