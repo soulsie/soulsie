@@ -1,5 +1,5 @@
 <h3 align="center">boy why you so seal 🦭 🦭 </h3>
-<img align="center" alt="twinks" width="400" src="https://soulsie.gay/assets/images/image07.gif">
+<img align="right" alt="twinks" width="400" src="https://soulsie.gay/assets/images/image07.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soulsie&label=Profile%20views&color=0e75b6&style=flat" alt="soulsie" /> </p>
 
