@@ -1,5 +1,4 @@
 <h3 align="center">boy why you so seal 🦭 🦭 </h3>
-<img align="center" alt="twinks" width="300" src="https://soulsie.gay/assets/images/image07.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soulsie&label=Profile%20views&color=0e75b6&style=flat" alt="soulsie" /> </p>
 
@@ -24,3 +23,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=soulsie&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soulsie&theme=city_lights&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soulsie&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soulsie&theme=city_lights)
