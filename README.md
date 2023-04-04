@@ -22,3 +22,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soulsie&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=soulsie&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soulsie&theme=city_lights&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soulsie&theme=city_lights)
