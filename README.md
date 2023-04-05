@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-5/1018385268413317240.png" alt="soulsie" /> </p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=soulsie&label=Profile%20views&color=0e75b6&style=flat" alt="soulsie" /> </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soulsie&theme=city_lights)
