@@ -1,4 +1,4 @@
-[![Discord](https://lanyard.cnrad.dev/api/1018385268413317240?borderRadius=5px&idleMessage=doing%20nothing&bg=a&animated=false)](http://discord.soulsie.xyz/)
+[![Discord](https://discord.c99.nl/widget/theme-4/1018385268413317240.png)](http://discord.soulsie.xyz/)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=soulsie&label=Profile%20views&color=0e75b6&style=flat" alt="soulsie" /> </p>
 
