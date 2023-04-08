@@ -8,7 +8,7 @@ I develop:
 
 - Lua scripts 
 - Discord bots
-- Websites
+- Websites (rarely tbh)
 
 # Stats (Compare to account's age)
 
