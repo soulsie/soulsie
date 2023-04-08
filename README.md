@@ -1,5 +1,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=soulsie&label=Profile%20views&color=0e75b6&style=flat" alt="soulsie" /> </p>
 
+# About me
+
+👋 Hello my name is steven and i'm from canada.
+
+I develop:
+
+- Lua scripts 
+- Discord bots
+- Websites
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soulsie&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=soulsie&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soulsie&theme=city_lights&utcOffset=8)
