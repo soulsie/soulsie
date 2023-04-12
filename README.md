@@ -10,7 +10,7 @@ I develop:
 - Discord bots
 - Websites (rarely tbh)
 
-# Stats (Compare to account's age)
+# Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soulsie&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=soulsie&theme=city_lights)
