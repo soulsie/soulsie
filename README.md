@@ -23,5 +23,9 @@ I develop:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=black)
 
+# Frameworks/Platforms
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=black)
+
 # Discord
 [![Discord](https://discord.c99.nl/widget/theme-4/1018385268413317240.png)](http://discord.soulsie.xyz/)
