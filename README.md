@@ -2,8 +2,6 @@
 
 # About me
 
-👋 Hello my name is steven and i'm from canada.
-
 I develop:
 
 - Lua scripts 
